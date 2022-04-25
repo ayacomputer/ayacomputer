@@ -5,4 +5,4 @@
 
 
 - 📫 Contact me: ayako.woollan@gmail.com
-- 🖥 [Click here to view my portfolio](https://ayacomputer.github.io/02-Portfolio/)
+- 🖥 [Click here to view my portfolio](https://ayacomputer.github.io/react-portfolio/)
